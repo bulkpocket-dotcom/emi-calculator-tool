@@ -1,0 +1,12 @@
+{
+  "name": "emi-calculator",
+  "version": "1.0.0",
+  "description": "Free EMI Calculator Tool",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite"
+  },
+  "dependencies": {
+    "react": "^18.0.0"
+  }
+}
